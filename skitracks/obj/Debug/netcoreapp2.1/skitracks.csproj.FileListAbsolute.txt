@@ -1,0 +1,11 @@
+C:\Users\bence\source\repos\skitracks\skitracks\obj\Debug\netcoreapp2.1\skitracks.csprojAssemblyReference.cache
+C:\Users\bence\source\repos\skitracks\skitracks\obj\Debug\netcoreapp2.1\skitracks.csproj.CoreCompileInputs.cache
+C:\Users\bence\source\repos\skitracks\skitracks\obj\Debug\netcoreapp2.1\skitracks.AssemblyInfoInputs.cache
+C:\Users\bence\source\repos\skitracks\skitracks\obj\Debug\netcoreapp2.1\skitracks.AssemblyInfo.cs
+C:\Users\bence\source\repos\skitracks\skitracks\bin\Debug\netcoreapp2.1\skitracks.deps.json
+C:\Users\bence\source\repos\skitracks\skitracks\bin\Debug\netcoreapp2.1\skitracks.runtimeconfig.json
+C:\Users\bence\source\repos\skitracks\skitracks\bin\Debug\netcoreapp2.1\skitracks.runtimeconfig.dev.json
+C:\Users\bence\source\repos\skitracks\skitracks\bin\Debug\netcoreapp2.1\skitracks.dll
+C:\Users\bence\source\repos\skitracks\skitracks\bin\Debug\netcoreapp2.1\skitracks.pdb
+C:\Users\bence\source\repos\skitracks\skitracks\obj\Debug\netcoreapp2.1\skitracks.dll
+C:\Users\bence\source\repos\skitracks\skitracks\obj\Debug\netcoreapp2.1\skitracks.pdb

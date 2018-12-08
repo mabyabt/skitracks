@@ -1,0 +1,5 @@
+﻿neustift,994
+Kaprun,786
+Schladming,745
+Innsbruck,574
+St Anton,1340
